@@ -35,11 +35,17 @@
 
 <table>
   <tr>
-    <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostkwebb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Ghostkwebb's Top Languages">
+    <td valign="top"> <!-- Align to top -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Ghostkwebb&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" 
+        alt="Ghostkwebb's Stats" 
+        width="400"> <!-- Set desired width -->
     </td>
-    <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ghostkwebb&theme=vue-dark&show_icons=true&hide_border=false&count_private=false" alt="Ghostkwebb's Stats">
+    <td valign="top"> <!-- Align to top -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostkwebb&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" 
+        alt="Ghostkwebb's Top Languages" 
+        width="400"> <!-- Set the SAME desired width -->
     </td>
   </tr>
 </table>
