@@ -35,10 +35,10 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostkwebb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Ghostkwebb's Top Languages">
     </td>
-    <td>
+    <td valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=Ghostkwebb&theme=vue-dark&show_icons=true&hide_border=false&count_private=false" alt="Ghostkwebb's Stats">
     </td>
   </tr>
