@@ -35,17 +35,17 @@
 
 <table>
   <tr>
-    <td valign="top"> <!-- Align to top -->
+    <td valign="top"> 
       <img 
         src="https://github-readme-stats.vercel.app/api?username=Ghostkwebb&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" 
         alt="Ghostkwebb's Stats" 
-        width="400"> <!-- Set desired width -->
+        width="400"> <!-- Adjust width as needed -->
     </td>
-    <td valign="top"> <!-- Align to top -->
+    <td valign="top">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostkwebb&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" 
         alt="Ghostkwebb's Top Languages" 
-        width="400"> <!-- Set the SAME desired width -->
+        width="400"> <!-- Use the SAME width as the first image -->
     </td>
   </tr>
 </table>
