@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I'm lazy**
 
+<h3 align="left">Skills:</h3>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,unity,apple,discord,pr" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ghostkwebb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghostkwebb" height="30" width="40" /></a>
