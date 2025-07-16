@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostkwebb&theme=darkhub" alt="ghostkwebb" /></a> </p>
 
-- 🔭 I’m currently working on **A Small Pacman Game**
+- 🔭 I’m currently working on **hidden project**
 
 - 🌱 I’m currently learning **Unity with C#**
 
